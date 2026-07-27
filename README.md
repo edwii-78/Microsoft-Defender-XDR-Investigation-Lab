@@ -1,4 +1,4 @@
-\# Microsoft Defender XDR Investigation Lab
+# Microsoft Defender XDR Investigation Lab
 
 ## Overview
 
